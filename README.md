@@ -1,4 +1,3 @@
 Hello world
 
-`some
-code`
+`some code`
